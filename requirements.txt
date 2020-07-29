@@ -24,5 +24,5 @@ six==1.12.0
 starlette==0.12.8
 ujson==1.35
 urllib3==1.25.3
-uvicorn==0.9.0
+uvicorn==0.11.7
 websockets==8.0.2
